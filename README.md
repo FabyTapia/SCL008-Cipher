@@ -1,3 +1,5 @@
+
+
 # Cifrado César;  Codigo Secreto.
 
 En mi primer proyecto, cree una aplicacion web de mensajeria, en donde el usuario
@@ -34,12 +36,16 @@ Se compone de 2 pantallas las cuales contienen:\
 
 PANTALLA 1
 
+![captura1](captura1.png)
+
 - Titulo "Codigo Secreto"
 - Bienvenida
 - Boton Aceptar (al hacer click te manda a pantalla 2).
 
 
 PANTALLA 2
+
+![captura2](captura2.png)
 
 - Titulo
 - Seleccionador numero desplazamiento

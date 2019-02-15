@@ -38,5 +38,5 @@ window.cipher = {
         }
       }
       return finalText1;
-    },
+    }
   }

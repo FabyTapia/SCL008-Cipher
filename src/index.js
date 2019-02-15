@@ -17,4 +17,4 @@ document.getElementById("btnDecode").addEventListener("click",() => {
   let string = document.getElementById("cipherCode").value;
   let offset = parseInt(document.getElementById("move").value);
   document.getElementById("containerEmpty").innerHTML = cipher.decode(offset,string);
-})/* Acá va tu código */
+})
